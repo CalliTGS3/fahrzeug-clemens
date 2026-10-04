@@ -1,0 +1,33 @@
+{
+    "name": "Fahrzeug Clemens",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "MotionKit V2": "github:tinysuperlab/motionkitv2#v0.1.2",
+        "funk": "*",
+        "power": "github:calliope-edu/pxt-power#f9a3f8722ffcbf979cd00dca47bd4a53cb2d4ca6",
+        "warte bis...": "github:calliope-edu/warte-bis#f771255087368c53690ea55c66da295e41c4d0c3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "master",
+        "tag": "v8.1.15",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/67bd568f950d0b6dee973953f2177ab1a35081d1",
+        "target": "8.1.15",
+        "pxt": "13.1.8",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
