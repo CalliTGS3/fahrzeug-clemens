@@ -110,7 +110,7 @@ basic.forever(function () {
         Autonom_0()
     }
     if (Autonom == 1) {
-    	
+        Autonom_1()
     }
     if (Autonom == 2) {
         Autonom_2()
